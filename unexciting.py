@@ -11,8 +11,8 @@ from colormath.color_conversions import convert_color
 #   6: cyan
 #   7: white
 #       blk  red  grn  ylw  blu  mag  cya  wht
-hues = [170,   0, 105,  58, 220, 295, 175, 195]
-sats = [ 25,  80,  80,  80,  60,  80,  80,  10]
+hues = [ 50,   0, 105,  58, 220, 295, 175,  50]
+sats = [ 10,  80,  80,  80,  60,  80,  80,  10]
 vals = [ 12,  80,  70,  80,  95,  80,  80,  87]
 
 cursor_color = HSVColor(85, .95, 1)
