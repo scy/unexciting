@@ -28,7 +28,4 @@ Planned:
 
 ## Status
 
-This is basically the initial release.
-I'm not perfectly satisfied with the colors yet, but it's a start.
-Also, I'm definitely open for suggestions.
-If you think that a certain color combination looks awful or that something could be slightly improved, let me know.
+This project is abandoned and superseded by [_One Dark Pro_ Everywhere](https://github.com/scy/one-dark-pro-everywhere), because I was too lazy to create a VS Code theme on my own.
